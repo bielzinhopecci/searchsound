@@ -27,7 +27,7 @@
     <div class="row pb-5">
       <div class="col-md-4 col-xs-12">
         <img class="icon-instrumentos pb-1" src="dist/img/icones-rock/guitar.png" alt="Guitarra">
-          <h2 class="text-center pt-3">Guitarra</h2>
+          <h2 class="text-center pt-3 mt-1">Guitarra</h2>
             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, nemo nulla.</p>
       </div>
       <div class="col-md-4 col-xs-12">
@@ -45,7 +45,7 @@
         <div class="row">
         <div class="col-md-4">
             <img class="icon-instrumentos" src="dist/img/icones-rock/piano.png" alt="Piano">
-              <h2 class="text-center pt-4">Piano</h2>
+              <h2 class="text-center pt-4 mt-1">Piano</h2>
               <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, nemo nulla.</p>
           </div>
           <div class="col-md-4">
@@ -55,7 +55,7 @@
           </div>
           <div class="col-md-4">
             <img class="icon-instrumentos" src="dist/img/icones-rock/teclado.png" alt="Teclado">
-            <h2 class="text-center pt-4">Teclado</h2>
+            <h2 class="text-center pt-4 mt-1">Teclado</h2>
             <p class="text-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo, nemo nulla.</p>
           </div>
         </div>
