@@ -27,7 +27,7 @@
     
 <div class="introducao-rock">
   <div class="ptext">
-          <span class="border">Rock 'n' Roll</span>
+          <span class="border">Rock</span>
   </div>
 </div>
 
@@ -76,10 +76,10 @@
               manifestações contra a Guerra do Vietnã. O rock ganha um caráter político de contestação nas letras de Bob Dylan.
               Outro grupo inglês começa a fazer grande sucesso: The Rolling Stones.
               No final da década, em 1969, o Festival de Woodstock torna-se o símbolo deste período. Sob o lema "paz e amor", 
-              meio milhão de jovens comparecem no concerto que contou com a presença de Jimi Hendrix e Janis Joplin.
-              Bandas de rock que fizeram sucesso nesta época: The Mamas & The Papas, Animals, 
-              The Who, Jefferson Airplane, Pink Floyd, The Beatles, Rolling Stones, The Doors.
-              </p>
+              meio milhão de jovens comparecem no concerto que contou com a presença de Jimi Hendrix e Janis Joplin.</p>
+
+              <p>Bandas de rock que fizeram sucesso nesta época: The Mamas & The Papas, Animals, 
+              The Who, Jefferson Airplane, Pink Floyd, The Beatles, Rolling Stones, The Doors.</p>
           </div>
 
         <div class="row">

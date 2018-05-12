@@ -24,29 +24,29 @@
     
 <section class="container">
     
-        <h1 class="display-4 text-dark my-5 text-center">Quem Somos</h1>
+        <h1 class="display-4 my-5 text-center">Quem Somos</h1>
     <div class="row">
         <div class="col-md-2">
-            <img src="dist/img/img-grupo.jpg" alt="Foto Grupo">
+            <img class="qmsomos" src="dist/img/img-gabriel.jpg" alt="Foto Grupo">
         </div>
         <div class="col-md-10 textgrupo">
-            <p>Mussum Ipsum, cacilds vidis litro abertis. Detraxit consequat et quo num tendi nada. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio. Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.</p>
+            <p>Gabriel Luiz Carneiro Pecci - RA:2650831723015. Olá tudo bem? Espero que sim, seja bem-vindo ao nosso portal. Visite as minhas páginas fui responsável pela criação das páginas <a class="link-qmsomos" href="samba.php">história do samba</a> e <a class="link-qmsomos" href="samba-inst.php">instrumentos do samba</a>. Dúvidas estarei a disposição.</p>
         </div>
     </div>
         <div class="row mt-3 mb-3">
         <div class="col-md-2">
-            <img src="dist/img/img-grupo.jpg" alt="Foto Grupo">
+            <img class="qmsomos"src="dist/img/img-felipe.jpg" alt="Foto Grupo">
         </div>
         <div class="col-md-10 textgrupo">
-            <p>Mussum Ipsum, cacilds vidis litro abertis. Detraxit consequat et quo num tendi nada. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio. Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.</p>
+        <p>Luis Felipe Ribeiro de Freitas - RA:2650831723038. Olá tudo bem? Espero que sim, seja bem-vindo ao nosso portal. Visite as minhas páginas fui responsável pela criação das páginas <a class="link-qmsomos" href="rock.php">história do rock</a> e <a class="link-qmsomos" href="rock-inst.php">instrumentos do rock</a>. Dúvidas estarei a disposição.</p>
         </div>
     </div>
         <div class="row mb-5">
         <div class="col-md-2">
-            <img src="dist/img/img-grupo.jpg" alt="Foto Grupo">
+            <img class="qmsomos" src="dist/img/img-leandro.jpg" alt="Foto Grupo">
         </div>
         <div class="col-md-10 textgrupo">
-            <p>Mussum Ipsum, cacilds vidis litro abertis. Detraxit consequat et quo num tendi nada. Nullam volutpat risus nec leo commodo, ut interdum diam laoreet. Sed non consequat odio. Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.</p>
+        <p>Leandro Barbosa - RA:2650831723038. Olá tudo bem? Espero que sim, seja bem-vindo ao nosso portal. Visite as minhas páginas fui responsável pela criação das páginas <a class="link-qmsomos" href="samba.php">história do pagode</a> e <a class="link-qmsomos" href="samba-inst.php">instrumentos do pagode</a>. Dúvidas estarei a disposição.</p>
         </div>
     </div>
     

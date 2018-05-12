@@ -45,35 +45,37 @@
 </div>
 
 <div class="container">
-    <h2 class="text-dark">História</h2>
+    <h2>História</h2>
         <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <img src="dist/img/rock-1.jpg" alt="Instrumentos">
-                    <p class="py-2">Nunc hendrerit lectus in purus imperdiet, quis condimentum dolor lobortis. 
-                        In varius, erat id interdum auctor, nisi ex consequat mi, 
-                        ut aliquet felis lectus sit amet orci. <a href="rock.html">Veja mais...</a>
+                <img class="mb-3" src="dist/img/rock-1.jpg" alt="Instrumentos">
+                    <strong>Rock</strong>
+                    <p class="py-2">Este gênero musical de grande sucesso surgiu nos Estados Unidos nos anos 50 (década de 1950).
+                     Inovador e diferente de tudo que já tinha ocorrido na música. <a href="rock.php">Veja mais...</a>
                     </p>
             </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <img src="dist/img/rock-3.jpg" alt="Instrumentos">
-                        <p class="py-2">Nunc hendrerit lectus in purus imperdiet, quis condimentum dolor lobortis. 
-                                In varius, erat id interdum auctor, nisi ex consequat mi, 
-                                ut aliquet felis lectus sit amet orci. <a href="#">Veja mais...</a>
-                        </p>
+                        <img class="mb-3" src="dist/img/rock-3.jpg" alt="Instrumentos">
+                            <strong>Samba</strong>
+                            <p class="py-2">Nunc hendrerit lectus in purus imperdiet, quis condimentum dolor lobortis. 
+                            In varius, erat id interdum auctor, nisi ex consequat mi, 
+                            ut aliquet felis lectus sit amet orci. <a href="#">Veja mais...</a>
+                            </p>
                     </div>
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <img src="dist/img/rock-3.jpg" alt="Instrumentos"> 
-                <p class="py-2">Nunc hendrerit lectus in purus imperdiet, quis condimentum dolor lobortis. 
-                        In varius, erat id interdum auctor, nisi ex consequat mi, 
-                        ut aliquet felis lectus sit amet orci. <a href="#">Veja mais...</a>
-                </p>
+                <img class="mb-3" src="dist/img/rock-3.jpg" alt="Instrumentos"> 
+                    <strong>Pagode</strong>
+                    <p class="py-2">Nunc hendrerit lectus in purus imperdiet, quis condimentum dolor lobortis. 
+                    In varius, erat id interdum auctor, nisi ex consequat mi, 
+                    ut aliquet felis lectus sit amet orci. <a href="#">Veja mais...</a>
+                    </p>
             </div>
         </div>
     <hr class="prop">
 </div>
 
 <div class="container">
-        <h2 class="text-dark">Instrumentos</h2>
+        <h2>Instrumentos</h2>
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
                     <img src="dist/img/rock.jpg" alt="Instrumentos"> 

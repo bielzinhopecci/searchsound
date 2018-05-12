@@ -137,26 +137,56 @@ img {
     .img-animated:hover {
         animation-name: imganimated;
         animation-delay: .1s;
-        animation-duration: .2s;
+        animation-duration: .3s;
         animation-timing-function: linear;
-        animation-iteration-count: 2
+        animation-iteration-count: 1
     }
 
-    @media (max-width: 575.98px) {
+/* pagode css */
 
-        .carroul-l {
-            margin-top: 60px;
-        }
+.ImgNav{
+    width: 50px;
+    height: 50px;
+}
 
-        .carroul-r {
-            margin-top: -320px;
-        }
+.prop-n {
+    border: 1.5px ;
+}
 
-        .toggle-img {
-            visibility: hidden;
-        }
+.introducao-pagode {
+	position: relative;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+    margin-top: -80px;
 
-    } 
+	background-attachment: fixed;
+}
+
+.introducao-pagode {
+	background-image: url('../img/Pagode_Bg.jpg');
+	height: 600px;
+}
+
+.ptext {
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+	color: #000;
+	font-size: 27px;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+}
+
+.ptext .border {
+	background-color: #111;
+	color: #fff;
+	padding: 20px;
+}
+
+
+/* menu-active */    
 
 
 ul .active a {
@@ -166,6 +196,45 @@ ul .active a {
 .dropdown-item.active {
     background-color: #1d1d1d;
     color: #ff4e00;
+}
+
+
+/* quem somos */
+
+.textgrupo {
+    padding-top: 60px;
+}
+
+.link-qmsomos {
+    color: #4286f4; 
+}
+
+.link-qmsomos:hover {
+    color: #4286f4s; 
+}
+
+
+/* h1 e h2 */
+
+h1, h2 {
+    font-family: "LemonMilk", Arial, Helvetica, sans-serif;
+    color: #000 !important;
+}
+
+h2 {
+    padding: 20px 0;
+}
+
+/* estilo form */
+
+form label  {
+    font-family: "LemonLight", Arial, Helvetica, sans-serif;
+    color: #000;
+}
+
+form button {
+    font-family: "LemonLight", Arial, Helvetica, sans-serif;
+    color: #000;
 }
 
 
@@ -179,4 +248,37 @@ ul .active a {
 
 footer {
     font-family: "LemonLight", Arial, Helvetica, sans-serif;
+    color: #1d1d1d;
 }
+
+
+
+
+
+
+
+
+
+/* responsivo */
+
+
+@media (max-width: 575.98px) {
+
+    .carroul-l {
+        margin-top: 60px;
+    }
+
+    .carroul-r {
+        margin-top: -320px;
+    }
+
+    .toggle-img {
+        visibility: hidden;
+    }
+
+    .qmsomos {
+        margin: 0 auto;
+    }
+
+} 
+
