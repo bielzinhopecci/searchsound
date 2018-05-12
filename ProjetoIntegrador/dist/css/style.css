@@ -1,0 +1,284 @@
+
+/* Estilo Gerais */
+
+body {
+    height: 100%;
+    margin: 0;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    }
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.prop {
+    border: 0.5px solid #B1A6A7;
+    margin-top: 30px;
+}
+
+.introducao {
+    margin-top: -30px;
+    width: 100%;
+    height: 600px;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Index */
+body {
+    padding-top: 110px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    }
+
+img {
+  display: block;
+  max-width: 100%;
+}
+
+.header {
+    position: fixed;
+    width: 100%;
+    background-color: #1d1d1d;
+    top: 0;
+    z-index: 10;
+}
+
+.navbar ul li {
+    margin: 10px 0 0 15px;
+}
+
+@font-face{
+    font-family: "LemonMilk";
+    src: url('font/LemonMilk.otf') format('truetype');
+  }
+
+
+.navbar ul li a {
+    font-size: 16px;
+    font-family: "LemonMilk", Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    color: #fff;
+    line-height: 20px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.navbar ul li a:hover {
+	color: #B1A6A7;
+    transition: all .5s ease;
+    background: #1d1d1d;
+}
+
+.dropdown-menu {
+    background: #1d1d1d;
+}
+
+.carroul-l {
+    margin-left: 12px;
+}
+
+.carroul-r {
+    margin-left: -25px;
+}
+
+.carroul-rd {
+    margin-top: 5px;
+}
+
+.bg, .bg-copy {
+    background-color: #1d1d1d;
+}
+
+.bg ul li {
+    padding-top: 10px;
+}
+
+.bg ul li a {
+    color: #B1A6A7;
+    text-decoration: none;
+}
+
+.text-contato {
+    color: #B1A6A7;
+}
+
+#prop-f {
+    border: 0.5px solid #B1A6A7;
+}
+
+.navbar-toggler-icon {
+    font-size: 32px;
+}
+
+    @keyframes imganimated {
+        0% {
+            transform:rotate(0);
+        }
+        25% {
+            transform:rotate(5deg);
+        }
+        50% {
+            transform:rotate(0);
+        }
+        75% {
+            transform:rotate(-5deg);
+        }
+        100% {
+            transform:rotate(0);
+        }
+    }
+    .img-animated {
+        transition: .5s;
+    }
+    .img-animated:hover {
+        animation-name: imganimated;
+        animation-delay: .1s;
+        animation-duration: .3s;
+        animation-timing-function: linear;
+        animation-iteration-count: 1
+    }
+
+/* pagode css */
+
+.ImgNav{
+    width: 50px;
+    height: 50px;
+}
+
+.prop-n {
+    border: 1.5px ;
+}
+
+.introducao-pagode {
+	position: relative;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+    margin-top: -80px;
+
+	background-attachment: fixed;
+}
+
+.introducao-pagode {
+	background-image: url('../img/Pagode_Bg.jpg');
+	height: 600px;
+}
+
+.ptext {
+	position: absolute;
+	top: 50%;
+	width: 100%;
+	text-align: center;
+	color: #000;
+	font-size: 27px;
+	letter-spacing: 8px;
+	text-transform: uppercase;
+}
+
+.ptext .border {
+	background-color: #111;
+	color: #fff;
+	padding: 20px;
+}
+
+
+/* menu-active */    
+
+
+ul .active a {
+    color:#ff4e00 !important;
+}
+
+.dropdown-item.active {
+    background-color: #1d1d1d;
+    color: #ff4e00;
+}
+
+
+/* quem somos */
+
+.textgrupo {
+    padding-top: 60px;
+}
+
+.link-qmsomos {
+    color: #4286f4; 
+}
+
+.link-qmsomos:hover {
+    color: #4286f4s; 
+}
+
+
+/* h1 e h2 */
+
+h1, h2 {
+    font-family: "LemonMilk", Arial, Helvetica, sans-serif;
+    color: #000 !important;
+}
+
+h2 {
+    padding: 20px 0;
+}
+
+/* estilo form */
+
+form label  {
+    font-family: "LemonLight", Arial, Helvetica, sans-serif;
+    color: #000;
+}
+
+form button {
+    font-family: "LemonLight", Arial, Helvetica, sans-serif;
+    color: #000;
+}
+
+
+/* footer */
+
+
+@font-face{
+    font-family: "LemonLight";
+    src: url('font/LemonLight.otf') format('truetype');
+  }
+
+footer {
+    font-family: "LemonLight", Arial, Helvetica, sans-serif;
+    color: #1d1d1d;
+}
+
+
+
+
+
+
+
+
+
+/* responsivo */
+
+
+@media (max-width: 575.98px) {
+
+    .carroul-l {
+        margin-top: 60px;
+    }
+
+    .carroul-r {
+        margin-top: -320px;
+    }
+
+    .toggle-img {
+        visibility: hidden;
+    }
+
+    .qmsomos {
+        margin: 0 auto;
+    }
+
+} 
+
