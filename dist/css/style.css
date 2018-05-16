@@ -1,5 +1,10 @@
 
 /* Estilo Gerais */
+.container {
+    padding-top: 20px;
+}
+
+
 
 body {
     height: 100%;
@@ -68,7 +73,7 @@ img {
 }
 
 .navbar ul li a:hover {
-	color: #B1A6A7;
+	color: #ff4e00;
     transition: all .5s ease;
     background: #1d1d1d;
 }
@@ -108,6 +113,10 @@ img {
 
 #prop-f {
     border: 0.5px solid #B1A6A7;
+}
+
+.spacebtm {
+    padding-bottom: 10px;
 }
 
 .navbar-toggler-icon {
@@ -210,19 +219,45 @@ ul .active a {
 }
 
 .link-qmsomos:hover {
-    color: #4286f4s; 
+    color: #4286f4; 
 }
 
 
-/* h1 e h2 */
+/* h1 h2 e strong */
 
-h1, h2 {
+h1 {
+    text-align: center;
     font-family: "LemonMilk", Arial, Helvetica, sans-serif;
     color: #000 !important;
 }
 
+h1:after {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 1px;
+    background-color: #ff4800;
+    margin: 5px auto;
+}
+
 h2 {
     padding: 20px 0;
+    font-family: "LemonMilk", Arial, Helvetica, sans-serif;
+    color: #000 !important;
+}
+
+.h2-index:after {
+    content: "";
+    display: block;
+    width: 150px;
+    height: 1px;
+    margin-top: 5px;
+    background-color: #ff4800;
+}
+
+strong {
+    font-family: "LemonMilk", Arial, Helvetica, sans-serif;
+    font-size: 18px;
 }
 
 /* estilo form */
@@ -237,6 +272,10 @@ form button {
     color: #000;
 }
 
+.btn {
+    margin-top: 2px !important;
+}
+
 
 /* footer */
 
@@ -248,15 +287,27 @@ form button {
 
 footer {
     font-family: "LemonLight", Arial, Helvetica, sans-serif;
-    color: #1d1d1d;
+    background-color: #000;
 }
 
+footer  h4 {
+    font-family: "LemonMilk", Arial, Helvetica, sans-serif !important;
+}
 
+.bg-copy p {
+    font-family: "LemonLight", Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+}
 
+.list-unstyled {
+    padding-top: 10px;
+}
 
-
-
-
+footer ul li a:hover {
+	color: #ff4800;
+    transition: all .5s ease;
+}
 
 
 /* responsivo */
@@ -280,5 +331,60 @@ footer {
         margin: 0 auto;
     }
 
+    .mobile-al {
+        width: 80%;
+    }
+
+    .text-samba {
+        margin: 0 auto;
+    }
+
 } 
 
+
+
+/* samba instrumentos */
+
+.h1-samba {
+    padding: 60px 0;
+}
+
+.text-samba {
+    padding-top: 360px; 
+    padding-left: 10px;
+}
+
+.text-introsamba {
+    padding-bottom: 20px;
+}
+
+
+/* O container geral define a perspectiva */  
+.flip-container { perspective: 1000; }  	
+
+/* vira os containers frente e verso quando o mouse passa em cima */
+.flip-container:hover .flipper, .flip-container.hover .flipper {  		
+  transform: rotateY(180deg);  	
+}    
+
+
+/* define a velocidade da transição */
+.flipper {  	
+  transition: 0.9s;  	
+  transform-style: preserve-3d;    	
+  position: relative;  
+}
+    
+/* esconde o verso durante a animação */
+.front, .back {  	
+  backface-visibility: hidden;    	
+  position: absolute;  	
+  top: 0;  	
+ left: 0;  
+}
+    
+/* frente posicionada sobre o verso */
+.front { z-index: 2;  }    
+
+/* verso inicialmente escondido */
+.back { transform: rotateY(180deg); }

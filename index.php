@@ -6,16 +6,11 @@
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
-
     <title>Search Sound</title>
-
     <?php include 'includes/link.php'; ?> 
-
   </head>
 
 <body>
-    
-    
     <header>
        <?php 
         $pagina='index';
@@ -45,7 +40,7 @@
 </div>
 
 <div class="container">
-    <h2>História</h2>
+    <h2 class="h2-index">História</h2>
         <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                 <img class="mb-3" src="dist/img/rock-1.jpg" alt="Instrumentos">
@@ -74,8 +69,8 @@
     <hr class="prop">
 </div>
 
-<div class="container">
-        <h2>Instrumentos</h2>
+<div class="container spacebtm">
+        <h2 class="h2-index">Instrumentos</h2>
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
                     <img src="dist/img/rock.jpg" alt="Instrumentos"> 
@@ -87,13 +82,12 @@
                     <img src="dist/img/pagode.jpg" alt="Instrumentos"> 
                 </div>
             </div>
-        <hr class="prop">
+            <hr class="prop">
     </div>
 
         <footer>
        <?php include 'includes/footer.php'; ?> 
         </footer>
-
 
        <?php include 'includes/script.php'; ?> 
   </body>

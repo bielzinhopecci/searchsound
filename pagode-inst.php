@@ -85,7 +85,7 @@
             </div>
 
             <div class="col md-9">
-                <h1 class="text-center">Pandeiro</h1>
+                <h2 class="text-center">Pandeiro</h2>
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
             </div>
@@ -95,7 +95,7 @@
 
         <section class="row">
             <div class="col md-9">
-                <h1 class="text-center">Cavaquinho</h1>
+                <h2 class="text-center">Cavaquinho</h2>
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
             </div>
@@ -113,7 +113,7 @@
             </div>
 
             <div class="col md-9">
-                <h1 class="text-center">Violão</h1>
+                <h2 class="text-center">Violão</h2>
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
             </div>
@@ -123,7 +123,7 @@
 
         <section class="row">
             <div class="col md-9">
-                <h1 class="text-center">TanTan</h1>
+                <h2 class="text-center">TanTan</h2>
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
             </div>
@@ -141,7 +141,7 @@
             </div>
 
             <div class="col md-9">
-                <h1 class="text-center">Repique</h1>
+                <h2 class="text-center">Repique</h2>
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
             </div>
@@ -151,7 +151,7 @@
     
         <section class="row">
             <div class="col md-9">
-                <h1 class="text-center">Cuica</h1>
+                <h2 class="text-center">Cuica</h2>
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
             </div>
@@ -168,7 +168,7 @@
                 <img src="dist/img/Pagode%20-%20Tamborim.jpg" height="200px" width="200px" alt="Tamborim" >
             </div>
             <div class="col md-9">
-                <h1 class="text-center">Tamborim</h1>
+                <h2 class="text-center">Tamborim</h2>
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
             </div>
@@ -179,7 +179,7 @@
         
         <section class="row">
             <div class="col md-9">
-                <h1 class="text-center">Ganza</h1>
+                <h2 class="text-center">Ganza</h2>
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
             </div>

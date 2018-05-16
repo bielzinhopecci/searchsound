@@ -33,7 +33,7 @@
 
 <section class="container">
         <div class="my-5 text-center">
-            <h1 class="display-5 text-dark">A origem</h1>
+            <h1 class="display-5">A origem</h1>
         </div>
         <div class="row">
           <div class="col-md-8">

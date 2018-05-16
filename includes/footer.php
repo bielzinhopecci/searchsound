@@ -32,7 +32,7 @@
             </div>
 
             <div class="col-md-2 pl-5">
-                <a class="navbar-brand" href="index.html">
+                <a class="navbar-brand" href="index.php">
                     <img src="dist/img/logo.png" alt="logo">
                 </a>
             </div>
@@ -40,6 +40,6 @@
         </div>
         <hr id="prop-f">
         <div class="bg-copy text-center py-3">
-          <p class="mb-0">Search Sound © 2018. Todos direitos reservados.</p>
+          <p class="mb-0">Search Sound © 2018. alguns direitos reservados.</p>
         </div>
       </footer>

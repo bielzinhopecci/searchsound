@@ -33,6 +33,7 @@
             <p>Gabriel Luiz Carneiro Pecci - RA:2650831723015. Olá tudo bem? Espero que sim, seja bem-vindo ao nosso portal. Visite as minhas páginas fui responsável pela criação das páginas <a class="link-qmsomos" href="samba.php">história do samba</a> e <a class="link-qmsomos" href="samba-inst.php">instrumentos do samba</a>. Dúvidas estarei a disposição.</p>
         </div>
     </div>
+    <hr id="prop-f">
         <div class="row mt-3 mb-3">
         <div class="col-md-2">
             <img class="qmsomos"src="dist/img/img-felipe.jpg" alt="Foto Grupo">
@@ -41,6 +42,7 @@
         <p>Luis Felipe Ribeiro de Freitas - RA:2650831723038. Olá tudo bem? Espero que sim, seja bem-vindo ao nosso portal. Visite as minhas páginas fui responsável pela criação das páginas <a class="link-qmsomos" href="rock.php">história do rock</a> e <a class="link-qmsomos" href="rock-inst.php">instrumentos do rock</a>. Dúvidas estarei a disposição.</p>
         </div>
     </div>
+    <hr id="prop-f">
         <div class="row mb-5">
         <div class="col-md-2">
             <img class="qmsomos" src="dist/img/img-leandro.jpg" alt="Foto Grupo">
