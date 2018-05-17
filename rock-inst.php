@@ -25,7 +25,7 @@
 <section class="container">
   <h1 class="text-center pt-5 mt-3 pb-5">Instrumentos do Rock 'n' Roll</h1>
     <div class="row pb-1">
-    <div class="lista-item border-middle py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
+    <div class="lista-item py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
         <input class="trigger-input" id="faq-titulo-1" type="checkbox">
 		      <div class="trigger-wrapper">
             <img class="icon-instrumentos pb-1" src="dist/img/icones-rock/guitar.png" alt="Guitarra">
@@ -49,7 +49,7 @@
       </div>
     </div>
 
-    <div class="lista-item border-middle py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
+    <div class="lista-item py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
       <input class="trigger-input" id="faq-titulo-3" type="checkbox">
 		    <div class="trigger-wrapper">
           <img class="icon-instrumentos" src="dist/img/icones-rock/violao.png" alt="Violão">
@@ -62,8 +62,8 @@
     </div>
   </div>
     
-  <div class="row">
-    <div class="lista-item border-middle py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
+  <div class="row mt-1">
+    <div class="lista-item py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
         <input class="trigger-input" id="faq-titulo-4" type="checkbox">
 		      <div class="trigger-wrapper">
             <img class="icon-instrumentos pb-1" src="dist/img/icones-rock/piano.png" alt="Piano">
@@ -87,7 +87,7 @@
       </div>
     </div>
 
-    <div class="lista-item border-middle py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
+    <div class="lista-item py-5 col-lg-4 col-md-4 col-sm-12 col-xs-12">
       <input class="trigger-input" id="faq-titulo-6" type="checkbox">
 		    <div class="trigger-wrapper">
           <img class="icon-instrumentos" src="dist/img/icones-rock/teclado.png" alt="Teclado">
@@ -117,7 +117,7 @@
            Em sua curta carreira, que durou apenas cinco anos, Hendrix mostrou ser um músico inovador, 
            ao estrear técnicas como a microfonia, o pedal wah-wah,  estereofonia e phasing (composição progressiva) nas gravações.
         </p>
-        <iframe class="align-video" width="700" height="400" src="https://www.youtube.com/embed/wDvlErh5zcc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe class="align-video video" width="700" height="400" src="https://www.youtube.com/embed/wDvlErh5zcc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </div>
   </div>
 
@@ -129,7 +129,7 @@
             a começar pela levada da primeira música do primeiro disco do Led Zeppelin, Good Times, Bad Times. 
             Ali John Bonzo Bonham já mostra que é o maior e a banda nunca pode continuar após sua morte – RIP.
           </p>
-          <iframe class="align-video" width="700" height="400" src="https://www.youtube.com/embed/RlNhD0oS5pk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+          <iframe class="align-video video" width="700" height="400" src="https://www.youtube.com/embed/RlNhD0oS5pk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
         </div>
   </div>
 
@@ -141,7 +141,7 @@
           para os teclados que mostrou em seu mix de rhythm and blues, boogie-woogie, gospel e country, brilhando no surgimento do estilo
           com Elvis Presley, Roy Orbison, Carl Perkins e Johnny Cash como um dos atros da mítica gravadora Sun Records.
         </p>
-        <iframe class="align-video" width="700" height="400" src="https://www.youtube.com/embed/4bB5xL577r4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+        <iframe class="align-video video" width="700" height="400" src="https://www.youtube.com/embed/4bB5xL577r4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
       </div>
   </div>
 </section>

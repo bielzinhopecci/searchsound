@@ -60,9 +60,8 @@
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                 <img class="mb-3" src="dist/img/rock-3.jpg" alt="Instrumentos"> 
                     <strong>Pagode</strong>
-                    <p class="py-2">Nunc hendrerit lectus in purus imperdiet, quis condimentum dolor lobortis. 
-                    In varius, erat id interdum auctor, nisi ex consequat mi, 
-                    ut aliquet felis lectus sit amet orci. <a href="#">Veja mais...</a>
+                    <p class="py-2">O pagode surgiu das festas e comemorações feitas nos fundos dos quintais do subúrbio carioca,
+                         nas quais se cantava as alegrias e os lamentos das pessoas que lá viviam. <a href="pagode.php">Veja mais...</a>
                     </p>
             </div>
         </div>

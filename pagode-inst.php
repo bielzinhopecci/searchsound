@@ -56,7 +56,7 @@
                     </li>
                     <li class="pb-5 pt-5">
                         <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20TanTan.jpg" alt="TanTan">
-                        <p class="pt-3"><a href="#TanTan">TanTan</a></p>
+                        <p class="pt-3">TanTan</p>
                     </li>
                     <li class="pb-5">
                         <img class="ImgNav mr-3" align="left" src="dist/img/Pagode%20-%20Cuica.jpg" alt="Cuica">
@@ -119,7 +119,7 @@
             </div>
         </section>
 
-        <hr class="prop-f col-md-12 mt-5 mb-5"><a name="TanTan"></a>
+        <hr class="prop-f col-md-12 mt-5 mb-5">
 
         <section class="row">
             <div class="col md-9">

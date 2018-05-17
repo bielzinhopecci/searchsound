@@ -23,7 +23,7 @@
         include 'includes/menu.php'; ?>
     </header>
 
-    <!----------------------------História do Pagode------------------------->
+                                                <!--História do Pagode-->
 
     <div class="introducao-pagode">
         <div class="ptext">
@@ -67,7 +67,7 @@
                 </p>
             </div>
         </div>
-        <div class="row mt-3">
+        <div class="row">
             <div class="col-md-12">
                 <p class="text-dark mt-2">
                     Beth gostou muito daquele samba misturado com outros ritmos africanos não tão difundidos e da sonoridade nova que a introdução do banjo, do repique de mão e a substituição do surdo pelo tatãn davam à música. Ela passou então a gravar as músicas desses compositores e acabou por revelar nomes como Zeca Pagodinho, Jorge Aragão, Grupo Fundo de Quintal e Almir Guineto, entre outros.
@@ -78,7 +78,7 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-8 text-center">
+            <div class="col-md-8 text-center mb-3">
                 <strong>Hoje, há dois tipos de pagode.</strong>
             </div>
             <div class="col-md-8">
@@ -89,7 +89,7 @@
                     Esse pagode dos anos 90 difere, principalmente, do pagode de cantores-compositores como Zeca Pagodinho, Almir Guineto, Jorge Aragão e Bezerra da Silva na construção das letras e na harmonia mais "adocicada" e adaptada pelos constantes acordes sintetizados dos teclados eletrônicos, os quais dão a música um som muito mais próximo do pop que do samba.
                 </p>
             </div>
-            <div class="col-md-4 mt-0">
+            <div class="col-md-4 mt-0 mb-3">
                 <img src="dist/img/Pagode%20-%20FundodeQuintal.jpg" alt="Fundo de Quintal">
                 <small>Fundo de Quintal.</small>
             </div>
@@ -114,7 +114,7 @@
         </div>
         <div class="row mt-3 text-center pb-3">
             <div class="col-md-12 pb-3">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/rBoH_QL-kHw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+                <iframe class="video video-pag" width="560" height="315" src="https://www.youtube.com/embed/rBoH_QL-kHw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
                 </iframe>
                 
             </div>
@@ -124,7 +124,7 @@
         <p class="text-dark mt-4">Em 1975 Martinho da Vila gravou o álbum ‘Pelo Telefone’, como uma homenagem ao samba e ao compositor. \.../</p>
     </article>
 
-    <!-------------------------Footer------------------------->
+                                               <!--Footer-->
 
     <footer>
         <?php include 'includes/footer.php'; ?>
