@@ -75,6 +75,10 @@
         margin-bottom: 20px;
     }
 
+    .border-middle {
+        border: none;
+    }
+
     /* Pagode */
 
     .ImgNav {
