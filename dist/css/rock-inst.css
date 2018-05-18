@@ -14,7 +14,7 @@
 
 .lista-item {
     background-color: #f8f9fa;
-    padding: 20px;
+    padding: 10px;
 }
 
 .faq-titulo {
@@ -40,6 +40,10 @@
 	line-height: 1.4em;
     display: none;
     text-align: left;
+}
+
+h6.faq-titulo {
+	transition: transform .3s ease;
 }
 
 .trigger-input {
