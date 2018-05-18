@@ -31,7 +31,7 @@
               </ul>
             </div>
 
-            <div class="col-md-2 pl-5">
+            <div class="logo col-md-2 pl-5">
                 <a class="navbar-brand" href="index.php">
                     <img src="dist/img/logo.png" alt="logo">
                 </a>
