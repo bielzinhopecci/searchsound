@@ -1,0 +1,13 @@
+.introducao-samba {
+	position: relative;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+    margin-top: -80px;
+	background-attachment: fixed;
+}
+
+.introducao-samba {
+	background-image: url('../img/bg-samba.jpg');
+	height: 600px;
+}
