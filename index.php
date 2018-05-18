@@ -43,14 +43,14 @@
     <h2 class="h2-index">História</h2>
         <div class="row">
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <img class="mb-3" src="dist/img/rock-1.jpg" alt="História">
+                <img class="mb-3" src="dist/img/rock-1.jpg" alt="Instrumentos">
                     <strong>Rock</strong>
                     <p class="py-2">Este gênero musical de grande sucesso surgiu nos Estados Unidos nos anos 50 (década de 1950).
                      Inovador e diferente de tudo que já tinha ocorrido na música. <a href="rock.php">Veja mais...</a>
                     </p>
             </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                        <img class="mb-3" src="dist/img/samba-historia.jpg" alt="História">
+                        <img class="mb-3" src="dist/img/rock-3.jpg" alt="Instrumentos">
                             <strong>Samba</strong>
                             <p class="py-2">Nunc hendrerit lectus in purus imperdiet, quis condimentum dolor lobortis. 
                             In varius, erat id interdum auctor, nisi ex consequat mi, 
@@ -58,7 +58,7 @@
                             </p>
                     </div>
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <img class="mb-3" src="dist/img/pagode-historia.jpg" alt="História"> 
+                <img class="mb-3" src="dist/img/rock-3.jpg" alt="Instrumentos"> 
                     <strong>Pagode</strong>
                     <p class="py-2">O pagode surgiu das festas e comemorações feitas nos fundos dos quintais do subúrbio carioca,
                          nas quais se cantava as alegrias e os lamentos das pessoas que lá viviam. <a href="pagode.php">Veja mais...</a>
@@ -72,17 +72,17 @@
         <h2 class="h2-index">Instrumentos</h2>
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
-                    <a href="rock.php"><img src="dist/img/rock.jpg" alt="Instrumentos"></a>
+                    <img src="dist/img/rock.jpg" alt="Instrumentos"> 
                 </div>
+                        <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
+                            <img src="dist/img/samba.jpg" alt="Instrumentos"> 
+                        </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
-                    <a href="samba.php"><img src="dist/img/samba.jpg" alt="Instrumentos"></a>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
-                    <a href="pagode.php"><img src="dist/img/pagode.jpg" alt="Instrumentos"></a>
+                    <img src="dist/img/pagode.jpg" alt="Instrumentos"> 
                 </div>
             </div>
-        <hr class="prop">
- </div>
+            <hr class="prop">
+    </div>
 
         <footer>
        <?php include 'includes/footer.php'; ?> 

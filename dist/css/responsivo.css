@@ -79,35 +79,10 @@
         border: none;
     }
 
-    .logo {
-        margin-left: 30px;
-    }
-
     /* Pagode */
 
     .ImgNav {
         margin-left: 100px;
-    }
-
-    @media (max-width: 414px) {
-
-        .logo {
-            margin-left: 55px;
-        }
-    }
-
-    @media (max-width: 411px) {
-
-        .logo {
-            margin-left: 55px;
-        }
-    }
-
-    @media (max-width: 375px) {
-
-        .logo {
-            margin-left: 35px;
-        }
     }
 
     @media (max-width: 320px) {
@@ -116,10 +91,6 @@
             width: 290px;
             height: 180px;
             margin: 0 auto;
-        }
-
-        .logo {
-            margin-left: 10px;
         }
     }
     
