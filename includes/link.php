@@ -3,3 +3,4 @@
 <link href="dist/css/rock.css" rel="stylesheet">
 <link href="dist/css/rock-inst.css" rel="stylesheet">
 <link href="dist/css/samba.css" rel="stylesheet">
+<link href="dist/css/responsivo.css" rel="stylesheet">
