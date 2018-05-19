@@ -1,45 +1,11 @@
 /* responsivo */
 
-    /* Desktop */
-
-@media (max-width: 1024px) {
-
-    .video {
-        margin-left: 110px;
-    }
-
-    .video-nirvana {
-        width: 370px;
-        height: 230px;
-        margin: 0 auto;
-    }
-
-    .video-pag {
-        margin-left: 20px;
-    }
-
-}
-
     /* Tablet */
 
-@media (max-width: 768px) {
-
-    .video-nirvana {
-		width: 270px;
-        height: 230px;
-    }
-
-    .video {
-        margin: 0 auto;
-    }
-
-}
-
-    /* Smartphone */
-
-@media (max-width: 575.98px) {
+@media only screen and (max-width: 767px) {
 
     .carroul-l {
+        margin: 0 auto;
         margin-top: 60px;
     }
 
@@ -62,7 +28,7 @@
     /* Rock */
 
     .video {
-		width: 330px;
+        width: 330px;
         height: 200px;
         margin: 0 auto;
     }
@@ -89,28 +55,14 @@
         margin-left: 100px;
     }
 
-    @media (max-width: 414px) {
-
-        .logo {
-            margin-left: 55px;
-        }
-    }
-
-    @media (max-width: 411px) {
-
-        .logo {
-            margin-left: 55px;
-        }
-    }
-
-    @media (max-width: 375px) {
-
-        .logo {
-            margin-left: 35px;
-        }
-    }
+}
 
     @media (max-width: 320px) {
+
+        .carroul-l {
+            margin: 0 auto;
+            margin-top: 60px;
+    }
 
         .video {
             width: 290px;
@@ -118,8 +70,8 @@
             margin: 0 auto;
         }
 
-        .logo {
-            margin-left: 10px;
+        .h1-samba {
+            padding: 20px auto;
         }
     }
     
