@@ -19,7 +19,7 @@
 
 <div class="container">
         <div class="row">
-            <div class="carroul-l col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div class="carroul-l col-lg-6 col-md-6 col-sm-12 col-xs-12 col-12">
                 <a href="#">
                 <img src="dist/img/rock-main.png" alt="Rock" class="img-animated">
             </a>

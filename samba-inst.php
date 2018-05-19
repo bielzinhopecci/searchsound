@@ -22,9 +22,9 @@
         include 'includes/menu.php'; ?> 
     </header>
 
-<div class="container mobile-al">
+<div class="container">
 
-        <h1 class="h1-samba">Instrumentos do Samba</h1>
+        <h1 class="text-center pt-5 mt-3 pb-5">Instrumentos do Samba</h1>
             <div class="row">
 
             <p class="text-introsamba">O samba é tocado basicamente por instrumentos de percussão e acompanhado por instrumentos de corda. Em vertentes como o samba-exaltação e o samba-de-gafieira, foram acrescentados instrumentos de sopro. Abaixo estarei mostrando alguns instrumentos que são utilizados em diversos estilos musicais, mas que no samba possuem um papel muito importante.</p>
