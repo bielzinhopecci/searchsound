@@ -33,10 +33,10 @@
 
     <article class="container">
         <div class="my-5 text-center">
-            <h1 class="display-5">História do Pagode</h1>
+            <h1 class="display-5 text-dark">História do Pagode</h1>
         </div>
         <div class="row">
-            <div class="col-md-8">
+            <div class="col-xl-8 col-md-8 col-sm-12">
                 <p class="text-dark">
                     O pagode surgiu das festas e comemorações feitas nos fundos dos quintais do subúrbio carioca, nas quais se cantava as alegrias e os lamentos das pessoas que lá viviam. Muitos músicos que hoje são considerados grandes sucessos nas rádios e televisões brasileiras, nasceram exatamente dessa manifestação popular completamente marginal aos acontecimentos musicais da grande mídia.
                 </p>
@@ -44,17 +44,13 @@
                     Historicamente, pagode era o nome das festas de escravos nas senzalas. No Rio de Janeiro, o morro e a malandragem lhe deram outro significado, consagrado no final da década de 70, que significava festa regada a muita comida, bebida e samba.
                 </p>
             </div>
-            <div class="col-md-4">
+            <div class="col-xl-4 col-md-4 col-sm-12">
                 <img src="dist/img/Pagode%20-%20Instrumentos.jpeg" alt="Instrumenstos">
             </div>
         </div>
 
         <div class="row ">
-            <div class="col-md-4">
-                <img src="dist/img/Pagode%20-%20BeteCarvalho.jpg" alt="Bete Carvalho" class="mt-4">
-                <small>Bete Carvalho</small>
-            </div>
-            <div class="col-md-8 mt-3">
+            <div class="col-xl-8 col-md-8 mt-3 col-sm-12 col-md-push-4 col-sm-push-0">
                 <strong>Pagode na mídia</strong>
                 <p class="text-dark mt-2">
                     Foi do bairro de Ramos, no subúrbio carioca, que esse tipo de música surgiu para as rádios, as gravadores e os canais de televisão. Lá, sambistas anônimos e jogadores de futebol se reuniam nos finais de semana para comer, beber e cantar.
@@ -65,6 +61,10 @@
                 <p class="text-dark">
                     Era o grupo Fundo de Quintal, que trazia como um de seus vocalistas o ex-diretor de bateria da Escola de Samba Unidos do Salgueiro, Almir Guineto.
                 </p>
+            </div>
+            <div class="col-xl-4 col-md-4 col-sm-12 col-md-pull-8 col-sm-push-0">
+                <img src="dist/img/Pagode%20-%20BeteCarvalho.jpg" alt="Bete Carvalho" class="mt-4">
+                <small>Bete Carvalho</small>
             </div>
         </div>
         <div class="row">

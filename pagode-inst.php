@@ -80,30 +80,26 @@
         <hr class="prop-f col-md-12 mt-5 mb-5">
 
         <section class="row">
-            <div class="col-md-12">
+            <div class="col md-10">
                 <h2 class="text-center">Pandeiro</h2>
+                <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
+                </p>
             </div>
             <div class="col-md-2">
-                <img class="img-inst" src="dist/img/Pagode%20-%20Pandeiro.jpg" height="140px" width="200px" alt="Pandeiro">
-            </div>
-            <div class="col md-10">
-                <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
-                </p>
+                <img class="img-inst" src="dist/img/Pagode%20-%20Pandeiro.jpg" height="200px" width="200px" alt="Pandeiro">
             </div>
         </section>
 
         <hr class="prop-f col-md-12 mt-5 mb-5">
 
         <section class="row">
-            <div class="col-md-12">
+            <div class="col md-10 col-md-push-2 col-sm-push-0">
                 <h2 class="text-center">Cavaquinho</h2>
-            </div>
-            <div class="col md-9">
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
             </div>
-            <div class="col-md-3 mt-0">
-                <img class="img-inst" src="dist/img/Pagode%20-%20Cavaquinho.jpg" height="140px" width="200px" alt="Cavaquinho">
+            <div class="col-md-2 mt-0 col-md-pull-10 col-sm-push-0">
+                <img class="img-inst" src="dist/img/Pagode%20-%20Cavaquinho.jpg" height="200px" width="200px" alt="Cavaquinho">
             </div>
         </section>
 
@@ -111,30 +107,25 @@
         <hr class="prop-f col-md-12 mt-5 mb-5">
 
         <section class="row">
-            <div class="col-md-12">
-                <h2 class="text-center">Violão</h2>
+            <div class="col md-10">
+                 <h2 class="text-center">Violão</h2>
+                <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
+                </p>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-2">
                 <img class="img-inst" src="dist/img/Pagode%20-%20Violao.jpg" height="200px" width="200px" alt="Violão">
             </div>
-
-            <div class="col md-9">
-                <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
-                </p>
-            </div>
         </section>
 
         <hr class="prop-f col-md-12 mt-5 mb-5">
 
         <section class="row">
-            <div class="col-md-12">
+            <div class="col md-10 col-md-push-2 col-sm-push-0">
                 <h2 class="text-center">TanTan</h2>
-            </div>
-            <div class="col md-9">
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-2 col-md-pull-10 col-sm-push-0">
                 <img class="img-inst" src="dist/img/Pagode%20-%20TanTan.jpg" height="200px" width="200px" alt="TanTan">
             </div>
         </section>
@@ -143,30 +134,24 @@
         <hr class="prop-f col-md-12 mt-5 mb-5">
 
         <section class="row">
-            <div class="col-md-12">
+            <div class="col md-10">
                 <h2 class="text-center">Repique</h2>
-            </div>
-            <div class="col-md-3">
-                <img class="img-inst" src="dist/img/Pagode%20-%20Repique.jpg" height="200px" width="200px" alt="Repique">
-            </div>
-
-            <div class="col md-9">
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
+            </div>
+            <div class="col-md-2">
+                <img class="img-inst" src="dist/img/Pagode%20-%20Repique.jpg" height="200px" width="200px" alt="Repique">
             </div>
         </section>
 
         <hr class="prop-f col-md-12 mt-5 mb-5">
-
         <section class="row">
-            <div class="col-md-12">
+            <div class="col md-10 col-md-push-2 col-sm-push-0">
                 <h2 class="text-center">Cuica</h2>
-            </div>
-            <div class="col md-9">
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-2 col-md-pull-10 col-sm-push-0">
                 <img class="img-inst" src="dist/img/Pagode%20-%20Cuica.jpg" height="200px" width="200px" alt="Cuica">
             </div>
         </section>
@@ -175,15 +160,13 @@
         <hr class="prop-f col-md-12 mt-5 mb-5">
 
         <section class="row">
-            <div class="col-md-12">
+            <div class="col md-10">
                 <h2 class="text-center">Tamborim</h2>
-            </div>
-            <div class="col-md-3">
-                <img class="img-inst" src="dist/img/Pagode%20-%20Tamborim.jpg" height="200px" width="200px" alt="Tamborim">
-            </div>
-            <div class="col md-9">
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
+            </div>
+            <div class="col-md-2">
+                <img class="img-inst" src="dist/img/Pagode%20-%20Tamborim.jpg" height="200px" width="200px" alt="Tamborim">
             </div>
         </section>
 
@@ -191,14 +174,12 @@
         <hr class="prop-f col-md-12 mt-5 mb-5">
 
         <section class="row">
-            <div class="col-md-12">
+            <div class="col md-10 col-md-push-2 col-sm-push-0">
                 <h2 class="text-center">Ganza</h2>
-            </div>
-            <div class="col md-9">
                 <p>Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.
                 </p>
             </div>
-            <div class="col-md-3">
+            <div class="col-md-2 col-md-pull-10 col-sm-push-0">
                 <img class="img-inst" src="dist/img/Pagode%20-%20Ganza.jpg" height="200px" width="200px" alt="Ganza">
             </div>
         </section>
