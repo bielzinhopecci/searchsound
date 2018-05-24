@@ -1,6 +1,25 @@
 /* responsivo */
 
-    /* Tablet */
+/*Desk*/
+
+@media (max-width: 1960px) {
+    .col-md-push-4 {
+        left: 33.33333333%;
+    }
+    .col-md-pull-10 {
+        right: 83.33333333%;
+    }
+    .col-md-push-2 {
+        left: 16.66666667%;
+    }
+    .col-md-pull-8 {
+        right: 66.66666667%;
+    }
+
+
+}
+
+/* Tablet */
 
 @media only screen and (max-width: 767px) {
 
@@ -17,7 +36,8 @@
         visibility: hidden;
     }
 
-    .qmsomos, .text-samba {
+    .qmsomos,
+    .text-samba {
         margin: 0 auto;
     }
 
@@ -26,7 +46,6 @@
     }
 
     /* Rock */
-
     .video {
         width: 330px;
         height: 200px;
@@ -50,29 +69,31 @@
     }
 
     /* Pagode */
-
     .ImgNav {
         margin-left: 100px;
     }
-
 }
 
-    @media (max-width: 320px) {
+/*Smart*/
 
-        .carroul-l {
-            margin: 0 auto;
-            margin-top: 60px;
+@media (max-width: 520px) {
+
+    .carroul-l {
+        margin: 0 auto;
+        margin-top: 60px;
     }
 
-        .video {
-            width: 290px;
-            height: 180px;
-            margin: 0 auto;
-        }
-
-        .h1-samba {
-            padding: 20px auto;
-        }
+    .video {
+        width: 290px;
+        height: 180px;
+        margin: 0 auto;
     }
-    
-} 
+
+    .h1-samba {
+        padding: 20px auto;
+    }
+    .col-sm-push-0 {
+        left: auto;
+        right: auto;
+    }
+}
