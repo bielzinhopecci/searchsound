@@ -72,13 +72,13 @@
         <h2 class="h2-index">Instrumentos</h2>
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
-                    <a href="rock.php"><img src="dist/img/rock.jpg" alt="Instrumentos"></a>
+                    <a href="rock-inst.php"><img src="dist/img/rock.jpg" alt="Instrumentos"></a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
-                    <a href="samba.php"><img src="dist/img/samba.jpg" alt="Instrumentos"></a>
+                    <a href="samba-inst.php"><img src="dist/img/samba.jpg" alt="Instrumentos"></a>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
-                    <a href="pagode.php"><img src="dist/img/pagode.jpg" alt="Instrumentos"></a>
+                    <a href="pagode-inst.php"><img src="dist/img/pagode.jpg" alt="Instrumentos"></a>
                 </div>
             </div>
         <hr class="prop">

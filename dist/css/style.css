@@ -213,7 +213,7 @@ ul .active a {
 /* quem somos */
 
 .textgrupo {
-    padding-top: 60px;
+    padding-top: 40px;
 }
 
 .link-qmsomos {
@@ -326,6 +326,16 @@ footer ul li a:hover {
 
 .text-introsamba {
     padding-bottom: 20px;
+}
+
+/* samba historia */
+
+.samba-divisor {
+    padding: 20px 0px;
+}
+
+.h1-samba {
+    padding: 40px;
 }
 
 /* O container geral define a perspectiva */  

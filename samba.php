@@ -15,8 +15,7 @@
 
 <body>
     
-<header>
-  
+    <header>
     <?php 
         $pagina='samba';
         include 'includes/menu.php'; ?> 
@@ -29,9 +28,36 @@
 </div>
 
 <section class="container">
-  <div class="row">
 
+<h1 class="h1-samba">HISTÓRIA DO SAMBA</h1>
+
+  <div class="row">
+    <p class="textgrupo">Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. </p>
   </div>
+
+  <hr class="prop">
+
+  <div class="row samba-divisor">
+    <img src="dist/img/samba1.jpg" alt="Rock" class="col-md-3">
+    <p class="col-md-9 textgrupo">Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. </p>
+  </div>
+
+  <hr class="prop">
+
+  <div class="row samba-divisor">
+  <p class="col-md-9 textgrupo">Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. </p>
+  <img src="dist/img/samba1.jpg" alt="Rock" class="col-md-3">
+  </div>
+
+  <hr class="prop">
+
+  <div class="row samba-divisor">
+    <img src="dist/img/samba1.jpg" alt="Rock" class="col-md-3">
+    <p class="col-md-9 textgrupo">Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis.Mussum Ipsum, cacilds vidis litro abertis. In elementis mé pra quem é amistosis quis leo. Não sou faixa preta cumpadi, sou preto inteiris, inteiris. Si num tem leite então bota uma pinga aí cumpadi! Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. </p>
+  </div>
+
+  <strong class="mt-5">Hey, você sabia ?</strong>
+              <p class="text-dark mt-4">Comemora-se em 13 de julho o Dia Mundial do Rock. \.../</p>
 
 </section>
 
@@ -39,6 +65,6 @@
        <?php include 'includes/footer.php'; ?> 
         </footer>
 
-      <?php include 'includes/script.php'; ?> 
+       <?php include 'includes/script.php'; ?> 
 </body>
 </html>
