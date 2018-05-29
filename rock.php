@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>Search Sound</title>
+    <title>Search Sound - Historia do Rock</title>
 
   <!-- LINK/CSS -->
 

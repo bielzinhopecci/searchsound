@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>Search Sound</title>
+    <title>Search Sound - Instrumentos do Samba</title>
 
     
     <?php include 'includes/link.php'; ?> 
@@ -27,7 +27,7 @@
         <h1 class="text-center pt-5 mt-3 pb-5">Instrumentos do Samba</h1>
             <div class="row">
 
-            <p class="text-introsamba">O samba é tocado basicamente por instrumentos de percussão e acompanhado por instrumentos de corda. Em vertentes como o samba-exaltação e o samba-de-gafieira, foram acrescentados instrumentos de sopro. Abaixo estarei mostrando alguns instrumentos que são utilizados em diversos estilos musicais, mas que no samba possuem um papel muito importante.</p>
+            <p class="text-introsamba">O samba é tocado basicamente por instrumentos de percussão e acompanhado por instrumentos de corda. Em vertentes como o samba-exaltação e o samba-de-gafieira, foram acrescentados instrumentos de sopro. Abaixo estarei mostrando alguns instrumentos que são utilizados em diversos estilos musicais, mas que no samba possuem um papel muito importante. Direitos autorais dos textos pertencentes a <a href="https://www.todamateria.com.br/samba/" target="_blank">Daniela Diana.</a></p>
 
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 mb-3">
                <div class="flip-container" ontouchstart="this.classList.toggle('hover');">   

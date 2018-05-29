@@ -52,9 +52,7 @@
                     <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
                         <img class="mb-3" src="dist/img/samba-historia.jpg" alt="História">
                             <strong>Samba</strong>
-                            <p class="py-2">Nunc hendrerit lectus in purus imperdiet, quis condimentum dolor lobortis. 
-                            In varius, erat id interdum auctor, nisi ex consequat mi, 
-                            ut aliquet felis lectus sit amet orci. <a href="#">Veja mais...</a>
+                            <p class="py-2">O samba foi introduzido no Brasil no período colonial pelos escravos africanos sendo portanto um estilo que provém da fusão entre as culturas africana e brasileira. <a href="samba.php">Veja mais...</a>
                             </p>
                     </div>
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">

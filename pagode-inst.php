@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>Search Sound</title>
+    <title>Search Sound - Instrumentos do Pagode</title>
 
 
     <?php include 'includes/link.php'; ?>
@@ -24,6 +24,8 @@
     </header>
 
     <div class="container">
+
+    <h1 class="h1-pagode">Instrumentos do Pagode</h1>
 
         <!-----------------------------Segundo Nav---------------------------------->
 

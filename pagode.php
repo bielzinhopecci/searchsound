@@ -8,7 +8,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>Search Sound</title>
+    <title>Search Sound - Historia do Pagode</title>
 
 
     <?php include 'includes/link.php'; ?>
@@ -122,7 +122,7 @@
             
         </div>
         <strong class="pb-2">Hey, você sabia ?</strong>
-        <p class="text-dark mt-4">Em 1975 Martinho da Vila gravou o álbum ‘Pelo Telefone’, como uma homenagem ao samba e ao compositor. \.../</p>
+        <p class="text-dark mt-4">Em 1975 Martinho da Vila gravou o álbum ‘Pelo Telefone’, como uma homenagem ao samba e ao compositor.</p>
     </article>
 
                                                <!--Footer-->

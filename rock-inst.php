@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="icon" href="favicon.ico">
 
-    <title>Search Sound</title>
+    <title>Search Sound - Instrumentos do Rock</title>
 
     
     <?php include 'includes/link.php'; ?> 
